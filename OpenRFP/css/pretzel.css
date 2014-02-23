@@ -2,6 +2,11 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
+a {
+	color: #28A58D;
+}
+
+
 h1 {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 4em;
@@ -40,6 +45,13 @@ p {
 .get-involved i {
 	color: #28A58D;
 }
+
+.get-involved a{
+	color: #28A58D;
+
+}
+
+
 .header-block{
 	background-image: url("../img/nyc.jpg");
 	background-repeat: no-repeat;
