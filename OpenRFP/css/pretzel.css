@@ -1,0 +1,95 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 4em;
+}
+
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 3em;
+	font-weight: normal;
+}
+
+
+p {
+	font-size: 1.2em;
+	line-height: 2em;
+}
+
+.logo {
+	background-image: url('../img/logo.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 100%;
+	width: 250px;
+	height: 300px;
+	margin: auto;
+	margin-top: -30px;
+}
+
+.header-block h1 {
+	color: white;
+	text-align: center;
+
+}
+
+.get-involved i {
+	color: #28A58D;
+}
+.header-block{
+	background-image: url("../img/nyc.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+.octocat {
+	width: 150px;
+	text-align: center;
+}
+
+
+.block1{
+	background: #E4F9F5;
+
+}
+
+.getintouch{
+	color: white;
+	background-image: url("../img/nyc.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+
+}
+
+.block3{
+	background: #04564A;
+}
+
+.block4{
+	background: #5BD3BC;
+}
+
+.github{
+	background: #333;
+	color: white;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.section {
+	padding-top: 90px;
+	padding-bottom: 90px;
+}
+
+.map {
+	width: 100%;
+	height: auto;
+	text-align: center;
+	margin: auto;
+}
