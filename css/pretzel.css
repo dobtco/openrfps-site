@@ -94,6 +94,10 @@ p {
 	padding-bottom: 30px;
 }
 
+.github h2 a {
+	color: white;
+}
+
 .section {
 	padding-top: 90px;
 	padding-bottom: 90px;
